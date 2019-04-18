@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Tri V Nguyen""
+name = "Tri V Nguyen"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -16,7 +16,7 @@ role = "PhD Student in Physics"
 organizations = [ { name = "Massachusetts Institute of Technology", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = ""
+bio = "short bio"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "tnguy@mit.edu"
@@ -35,7 +35,7 @@ user_groups = ["Physicists", "LIGO"]
 # List qualifications (such as academic degrees)
 [[education.courses]]
   course = "PhD in Physics"
-  institution = "Massachusetts Institute of Technology""
+  institution = "Massachusetts Institute of Technology"
   year = 2025
 
 [[education.courses]]
