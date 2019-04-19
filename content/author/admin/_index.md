@@ -77,4 +77,7 @@ user_groups = ["Physicists", "LIGO"]
 
 +++
 
-My bio
+I am a incoming Phd student in Physics at the Massachusetts Institute of Technology. I am interested in 
+gravitational-wave physics, including (but not limited to) detecting and characterizing gravitational wave sources.
+At MIT, I will be working with the LIGO MIT data analysis group, supervised by Dr. Erik Katsavounidis and 
+Prof. Salvatore Vitale 
