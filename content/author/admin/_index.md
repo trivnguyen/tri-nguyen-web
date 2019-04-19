@@ -51,12 +51,17 @@ user_groups = ["Physicists", "LIGO"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "tnguy51@u.rochester.edu"  # For a direct email link, use "mailto:test@example.org"
+  link = "mailto:tnguy@mit.edu"  # For a direct email link, use "mailto:test@example.org"
 
 #[[social]]
   #icon = "google-scholar"
   #icon_pack = "ai"
   #link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+
+[[social]]
+  icon = "orid"
+  icon_pack = "ai"
+  link = "https://orcid.org/0000-0001-6189-8457"
 
 [[social]]
   icon = "github"
