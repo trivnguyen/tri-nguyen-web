@@ -50,7 +50,7 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "tnguy@mit.edu"
+email = "tnguy51@u.rochester.edu"
 phone = "(626) 628-4527"
 address = "B&L 372, University of Rochester, Rochester, New York, 14627, USA"
 
@@ -85,10 +85,10 @@ contact_links = [
 #   1: Google Maps
 #   2: OpenStreetMap (Mapnik)
 #   3: OpenStreetMap (Mapbox)
-map = 0
+map = 1
 map_api_key = ""
-latitude = "37.4275"
-longitude = "-122.1697"
+latitude = "43.122429"
+longitude = "-77.630676"
 zoom = 15
 
 ############################
