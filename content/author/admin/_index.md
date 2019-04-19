@@ -76,8 +76,16 @@ user_groups = ["Physicists", "LIGO"]
    link = "files/cv.pdf"
 
 +++
+I am an incoming Physics PhD student at the Massachusetts Institute of Technology. My primary research interests are
+gravitational waves and multimessenger astronomy, including but not limited to:
 
-I am a incoming Phd student in Physics at the Massachusetts Institute of Technology. I am interested in 
-gravitational-wave physics, including (but not limited to) detecting and characterizing gravitational wave sources.
-At MIT, I will be working with the LIGO MIT data analysis group, supervised by Dr. Erik Katsavounidis and 
-Prof. Salvatore Vitale 
+- Detect and characterze GW sources
+- Electromagnetic follow-up of GW sources
+- Understand GW detectors
+
+As a member of the [LIGO](https://www.ligo.org/) collaboration, I've applied machine learning to characterize and 
+subtract the non-linear noise coupling mechanisms in the LIGO detectors. At MIT, I will be working with the LIGO MIT
+data analysis group, under the supervision of [Dr. Erik Katsavounidis](http://www.mit.edu/~kats/) and 
+[Prof. Salvatore Vitale](https://sites.google.com/site/follemente/).
+
+
