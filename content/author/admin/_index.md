@@ -89,7 +89,7 @@ gravitational waves and multimessenger astronomy, including but not limited to:
 - Understand GW detectors
 
 As a member of the [LIGO](https://www.ligo.org/) collaboration, I've worked with [Dr. Michael Coughlin](https://www.michaelwcoughlin.com/)
-applied machine learning to characterize and subtract the non-linear noise coupling mechanisms in the LIGO detectors. 
+to apply machine learning to characterize and subtract the non-linear noise coupling mechanisms in the LIGO detectors. 
 At MIT, I will be working with the LIGO MIT data analysis group, under the supervision of 
 [Dr. Erik Katsavounidis](http://www.mit.edu/~kats/) and [Prof. Salvatore Vitale](https://sites.google.com/site/follemente/).
 

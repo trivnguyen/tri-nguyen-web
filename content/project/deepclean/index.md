@@ -1,12 +1,13 @@
 +++
 # Project title
-title = "DeepClean - A GW noise regression network"
+title = "DeepClean" 
+subtitle = "A Noise Regression Framework for GW detectors"
 
 # Date this page was created
 date = 2019-04-16T00:00:00
 
 # Project summary to display on homepage
-summary = "Using machine learning to learn and subtract non-linear noise in LIGO detectors."
+summary = "Using LSTM network to learn and subtract non-linear noise in GW detectors."
 
 # Tags: can be used for filtering projects.
 tags = ["Gravitational Waves", "Machine Learning", "LIGO", "Detector Characterization", "Neural Network", "LSTM"]

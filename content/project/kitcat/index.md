@@ -1,12 +1,13 @@
 +++
 # Project title
 title = "KITCAT"
+subtitle = "Probing the large-scale structure of the Universe"
 
 # Date this page was created
 date = 2019-04-16T00:00:00
 
 # Project summary to display on homepage
-summary = "Calculating the spatial two-point correlation function using k-d tree algorithm."
+summary = "Accelerating the calculation of the galactic two-point correlation function with k-d tree."
 
 # Tags: can be used for filtering projects.
 tags = ["Cosmology", "Algorithm", "Two-point Correlation Function", "Baryon Acoustic Oscillation", "DESI"]
@@ -17,7 +18,7 @@ tags = ["Cosmology", "Algorithm", "Two-point Correlation Function", "Baryon Acou
 # Featured image
 
 [image]
-    caption = "The 2-D TPCF computed by KITCAT"
+    caption = "The two-point correlation function computed by KITCAT"
 
     # Focal point (optional)
     # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
