@@ -2,7 +2,7 @@
 # Projects widget.
 widget = "projects"
 active = true
-date = 2019-04-20T00:00:00
+date = 2019-04-16T00:00:00
 
 title = "Projects"
 subtitle = ""
@@ -13,12 +13,12 @@ weight = 50
 # Content.
 # Display content from the following folder.
 # For example, `folder = "project"` displays content from `content/project/`.
-folder = "projects"
+folder = "project"
 
 # View.
 # Customize how projects are displayed.
 # Legend: 0 = list, 1 = cards, 2 = showcase.
-view = 2
+view = 1
 
 # Widget layout
 # Legend: 0 = two columns (default), 1 = single column

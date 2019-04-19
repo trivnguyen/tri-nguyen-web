@@ -3,7 +3,7 @@
 title = "DeepClean"
 
 # Date this page was created
-date = 2019-04-20T00:00:00
+date = 2019-04-16T00:00:00
 
 # Project summary to display on homepage
 summary = "Using machine learning to learn and subtract non-linear noise in LIGO detectors"
@@ -17,7 +17,7 @@ tags = ["Gravitational Waves", "Machine Learning", "LIGO", "Detector Characteriz
 # Featured image
 
 [image]
-    caption = ""
+    caption = "abc"
 
     # Focal point (optional)
     # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -26,7 +26,7 @@ tags = ["Gravitational Waves", "Machine Learning", "LIGO", "Detector Characteriz
 +++
 
 [Deep Clean](deepclean.pdf)
-
+This is LIGO project.
 
 
 
