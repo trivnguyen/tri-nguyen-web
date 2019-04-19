@@ -31,7 +31,7 @@ featured = true
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Gravitational Waves", "LIGO", "LSTM", "Machine Learning", "Neural Network", "Detector Characterization"]
+tags = ["Gravitational Waves", "LIGO", "LSTM", "Machine Learning", "Detector Characterization"]
 
 # Markdown Slides (optional).
 #   Associate this page with Markdown slides.
@@ -42,7 +42,7 @@ tags = ["Gravitational Waves", "LIGO", "LSTM", "Machine Learning", "Neural Netwo
 slides = ""
 
 # Optional filename of your slides within your talk folder or a URL.
-url_slides = "talk"
+url_slides = "talk.pdf"
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.

@@ -10,7 +10,7 @@ date = 2019-04-16T00:00:00
 summary = "Using LSTM network to learn and subtract non-linear noise in GW detectors."
 
 # Tags: can be used for filtering projects.
-tags = ["Gravitational Waves", "Machine Learning", "LIGO", "Detector Characterization", "Neural Network", "LSTM"]
+tags = ["Gravitational Waves", "Machine Learning", "LIGO", "Detector Characterization", "LSTM"]
 
 # Optional external URL for project (replaces project detail page).
 # external link = "http://example.org"
