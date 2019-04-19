@@ -59,7 +59,12 @@ user_groups = ["Physicists", "LIGO"]
   #link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
 [[social]]
-  icon = "orid"
+  icon = "linkedin"
+  icon_pack = "fab"
+  link = "https://www.linkedin.com/in/tri-n-903715122"
+
+[[social]]
+  icon = "orcid"
   icon_pack = "ai"
   link = "https://orcid.org/0000-0001-6189-8457"
 
