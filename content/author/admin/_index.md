@@ -79,7 +79,7 @@ user_groups = ["Physicists", "LIGO"]
 I am an incoming Physics PhD student at the Massachusetts Institute of Technology. My primary research interests are
 gravitational waves and multimessenger astronomy, including but not limited to:
 
-- Detect and characterze GW sources
+- Detect and characterize GW sources
 - Electromagnetic follow-up of GW sources
 - Understand GW detectors
 
@@ -88,4 +88,6 @@ applied machine learning to characterize and subtract the non-linear noise coupl
 At MIT, I will be working with the LIGO MIT data analysis group, under the supervision of 
 [Dr. Erik Katsavounidis](http://www.mit.edu/~kats/) and [Prof. Salvatore Vitale](https://sites.google.com/site/follemente/).
 
-
+In May 2019, I'll receive my BSc in Physics & Astronomy from the University of Rochester. As an undergradate, I worked
+with [Prof. Segev BenZvi](https://www.pas.rochester.edu/~sybenzvi/) and [Prof. Regina Demina](http://www.pas.rochester.edu/~regina/)
+on a variety of projects in supernova neutrino simulations, computational cosmology, and Type Ia supernova spectra classification.
