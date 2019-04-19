@@ -26,6 +26,7 @@ tags = ["Cosmology", "Algorithm", "Two-point Correlation Function", "Baryon Acou
 +++
 
 Algorithm described in: [A Computationally Efficient Approach for Calculating Galaxy Two-Point Correlations](kitcat.pdf)
+Github repository: [KITCAT](https://github.com/DESI-UR/KITCAT)
 
 KITCAT, or the Kd-tree Implementation for Two-point Correlation AlgoriThm, is... 
 
