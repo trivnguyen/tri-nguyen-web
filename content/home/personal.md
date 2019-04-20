@@ -3,14 +3,14 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+weight = 100  # Order that this section will appear.
 
-title = "Projects"
+title = "Personal"
 subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "project"
+  page_type = "personal"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -41,7 +41,7 @@ subtitle = ""
   #   1 = List
   #   3 = Card
   #   5 = Showcase
-  view = 5
+  view = 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = true
@@ -73,3 +73,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+Outside of physics, I love playing video games (Smash Bros, Dota 2), soccer (goalie) 
+and ultimate frisbee (cutter), boxing, weight lifting, rock climbing (mostly bouldering), 
+urban exploring, and all forms of street dancing (I am an amateur b-boy, or break dancer).
+
+Ask me about: anything physics/astronomy, machine learning, Caltech SURF, break dance, 
+karaoke, Asian food, my five dogs, Vietnam.
