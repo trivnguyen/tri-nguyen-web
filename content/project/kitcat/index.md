@@ -15,11 +15,12 @@ tags = ["Cosmology", "Algorithm", "Two-point Correlation", "Baryon Acoustic Osci
 
 # Optional external URL for project (replaces project detail page).
 # external link = "http://example.org"
+url_code = "https://github.com/DESI-UR/KITCAT"
 
 # Featured image
 
 [image]
-    caption = "The two-point correlation function computed by KITCAT"
+    caption = "Baryon acoustic oscillations are imprinted in the distribution of galaxies. Source: [SDSS](https://www.sdss.org/boss-3/)"
 
     # Focal point (optional)
     # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -32,7 +33,7 @@ rise to acoustic sound waves. These sound waves are driven by radiation pressure
 speed. About 400,000 years after the Big Bang, the universe is cool enough for free electrons to be captured 
 by protons to form neutral hydrogen atoms. These newly-formed hydrogen atoms do not interact strongly with photons, and,
 as a result, photons decouple from the matter. No longer supported by radiation pressure, the baryon sound waves
-halt, producing density bumps, often called the **baryon acoustic oscillations** (BAOs), at about 150 Mpc detectable in 
+halt, producing density bumps, often called the baryon acoustic oscillations (BAOs), at about 150 Mpc detectable in 
 the anisotropy of the cosmic microwave background (CMB) and in the distribution of galaxies. 
 
 Because BAOs create an excess of galaxies at about 150 Mpc, they can be detected by studying at the large-scale clustering
@@ -50,4 +51,4 @@ parameter space.
 
 For more information, refer to [this paper](kitcat.pdf) on which KITCAT is based.
 
-KITCAT v2.0.0: [Github](https://github.com/DESI-UR/KITCAT), [Zenodo](https://doi.org/10.5281/zenodo.2640917)
+For KITCAT v2.0.0: [Github](https://github.com/DESI-UR/KITCAT), [Zenodo](https://doi.org/10.5281/zenodo.2640917)

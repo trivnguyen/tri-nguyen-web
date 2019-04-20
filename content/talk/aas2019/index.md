@@ -3,7 +3,7 @@ title = "Extending the reach of gravitational-wave detectors with machine learni
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2019-01-18T00:00:00
+date = 2019-01-18T10:40:00
 #date_end = 2019-04-19T10:14:59-04:00
 all_day = false
 
