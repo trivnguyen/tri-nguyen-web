@@ -74,8 +74,9 @@ subtitle = ""
  css_class = ""
 +++
 Outside of physics, I love playing video games (Smash Bros, Dota 2), soccer (goalie) 
-and ultimate frisbee (cutter), boxing, weight lifting, rock climbing (mostly bouldering), 
-urban exploring, and all forms of street dancing (I am an amateur b-boy, or break dancer).
+and ultimate frisbee (cutter), boxing, weight lifting, rock climbing, urban exploring, 
+and all forms of street dancing (I am an amateur b-boy, or break dancer).
 
-Ask me about: anything physics/astronomy, machine learning, Caltech SURF, break dance, 
-karaoke, Asian food, my five dogs, Vietnam.
+Ask me about: traveling, break dance, karaoke, Asian food, my five dogs, Boston, Vietnam.
+
+### Photo Gallery

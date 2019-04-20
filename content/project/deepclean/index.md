@@ -10,7 +10,7 @@ date = 2019-04-16T00:00:00
 summary = "Using LSTM network to learn and subtract non-linear noise in GW detectors."
 
 # Tags: can be used for filtering projects.
-tags = ["Gravitational Waves", "Machine Learning", "LIGO", "Detector Characterization", "LSTM"]
+tags = ["Gravitational Waves", "Machine Learning", "LIGO", "Detector Characterization", "LSTM", "Caltech SURF"]
 
 # Optional external URL for project (replaces project detail page).
 # external link = "http://example.org"
@@ -40,7 +40,7 @@ These sources are instrumental and environmental effects, each coupling to the s
 LIGO currently relies on the Wiener filter to remove noise sources. However, the Wiener filter fails
 to remove the non-linear contributions. Characterizing these non-linear contributions and removing them 
 using standard statistical and signal processing techniques can be challenging if not impossible because the 
-mechanisms are often complex and involved multiple noise channels. In this study, we use a machine learning 
+mechanisms are often complex and involve multiple noise channels. In this study, we use a machine learning 
 algorithm called the Long Short-Term Memory neural network to learn and filter out these non-linear noise sources.
 
 {{< figure src="lstm.png" title="Schematic of an LSTM layer. [Source](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)." >}}
