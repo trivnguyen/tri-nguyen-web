@@ -95,4 +95,12 @@ At MIT, I'll be working with the LIGO MIT data analysis group, under the supervi
 
 In May 2019, I'll receive my BSc in Physics & Astronomy from the University of Rochester. As an undergradate, I worked
 with [Prof. Segev BenZvi](https://www.pas.rochester.edu/~sybenzvi/) and [Prof. Regina Demina](http://www.pas.rochester.edu/~regina/)
-on a variety of projects in supernova neutrino simulations, computational cosmology, and Type Ia supernova spectra classification.
+on a variety of projects in supernova neutrino simulations, computational cosmology, and Type Ia supernova 
+spectra classification.
+
+Outside of physics, I love playing video games (Smash Bros, Dota 2), soccer (goalie) and ultimate frisbee (cutter), 
+boxing, weight lifting, rock climbing (mostly bouldering), urban exploring, and all forms of street dancing
+(I am an amateur b-boy, or break dancer).
+
+Ask me about: anything physics/astronomy, machine learning, Caltech SURF, break dance, karaoke, 
+Asian food, my five dogs, Vietnam.

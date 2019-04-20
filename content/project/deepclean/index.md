@@ -35,11 +35,15 @@ due to a number of noise sources, the detectors are currently operating below th
 These sources are instrumental and environmental effects, each coupling to the signal via a different 
 (both linear and non-linear) mechanism.
 
+{{< figure src="noise_budget.png" title="LIGO Livingston Noise Budget. [Source](https://www.ligo.org/science/Publication-O1Noise/index.php)." >}}
+
 LIGO currently relies on the Wiener filter to remove noise sources. However, the Wiener filter fails
 to remove the non-linear contributions. Characterizing these non-linear contributions and removing them 
 using standard statistical and signal processing techniques can be challenging if not impossible because the 
 mechanisms are often complex and involved multiple noise channels. In this study, we use a machine learning 
 algorithm called the Long Short-Term Memory neural network to learn and filter out these non-linear noise sources.
+
+{{< figure src="lstm.png" title="Schematic of an LSTM layer. [Source](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)." >}}
 
 I first got involved in this project as a SURF student at LIGO Caltech in the summer of 2018, and have been continued 
 it since. DeepClean, our noise regression framework, is currently being developed by me, my mentor 
